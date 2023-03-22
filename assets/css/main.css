@@ -1,0 +1,26 @@
+:root {
+    /* Color */
+    --blue-color: #103178;
+    --yellow-color: #FFC800;
+    --white-color: #FFFFFF;
+    --grey-color: #F0F2F5;
+    /* End Color */
+
+    /* Transition */
+    --btn-transition: 0.5s ease;
+    /* End Transition */
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
